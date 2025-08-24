@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+/* biome-ignore lint/suspicious/noUnknownAtRules: @theme is provided by tailwindcss */
+@theme {
+  --spacing: 0.5rem;
+}
